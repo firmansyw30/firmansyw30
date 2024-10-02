@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Firmansyah Wicaksono</h1>
-<h3 align="center">A final year Informatics Engineering Student with high passionate on Cloud Engineering & DevOps Engineering from Indonesia. I'm eager to learn more and more, also for collaborate.</h3>
+<h3 align="center">Recent Graduate from Informatics Engineering with high passionate on Cloud & DevOps from Indonesia. I'm eager to learn more and more, also for collaborate.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firmansyw30&label=Profile%20views&color=0e75b6&style=flat" alt="firmansyw30" /> </p>
 
-- 🔭 I’m currently working on [my thesis about Infrastructure as Code](https://source.cloud.google.com/prime-hologram-395812/final-project-firman)
+- 🔭 I’m currently working on Rantangin as a DevOps Engineer
 
-- 🌱 I’m currently learning **Terraform, DevOps, and more about Cloud Computing**
+- 🌱 I’m currently learning about **DevOps, and more about Cloud Computing**
 
 - 💬 Let's talk more about **Cloud Computing, DevOps**
 
@@ -13,7 +13,9 @@
 
 - ⚡ Fun fact, my hobbies are **Badminton, Cycling and Playing Music**
 
-<h3 align="left">Connect with me:</h3>
+-  My Thesis project is about [Infrastructure as Code with Terraform + CI/CD Pipeline using Cloud Build](https://source.cloud.google.com/prime-hologram-395812/final-project-firman)
+
+<h3 align="left">Lets Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/firmansyw30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="firmansyw30" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/firmansyah-wicaksono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firmansyah-wicaksono" height="30" width="40" /></a>
