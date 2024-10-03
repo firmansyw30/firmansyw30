@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firmansyah Wicaksono</h1>
-<h3 align="center">Recent Graduate from Informatics Engineering with high passionate on Cloud from Indonesia. I'm eager to learn more and more, also for collaborate.</h3>
+<h3 align="center">Recent Graduate from Informatics Engineering with high passionate on Cloud from Indonesia, eager to learn more and also for collaborate.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firmansyw30&label=Profile%20views&color=0e75b6&style=flat" alt="firmansyw30" /> </p>
 
