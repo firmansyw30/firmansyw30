@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Rantangin as a DevOps Engineer
 
-- 🌱 I’m currently learning about **Cloud Computing and DevOps **
+- 🌱 I’m currently learning about **Cloud Computing and DevOps**
 
 - 💬 Let's talk more about **Cloud Computing, Cloud Architecting or any related solution using Cloud**
 
