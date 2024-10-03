@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on Rantangin as a DevOps Engineer
 
-- 🌱 I’m currently learning about **DevOps, and more about Cloud Computing**
+- 🌱 I’m currently learning about **Cloud Computing and DevOps**
 
-- 💬 Let's talk more about **Cloud Computing**
+- 💬 Let's talk more about **Cloud Computing, Cloud Architecting or any related solution using cloud**
 
-- 📫 How to reach me **firmansyahwicaksono30@gmail.com**
+- 📫 You can reach me at **firmansyahwicaksono30@gmail.com**
 
-- ⚡ Fun fact, my hobbies are **Badminton, Cycling and Playing Music**
+- ⚡ Fun fact, my hobbies are **Badminton, Cycling and Playing Music** and I also like to discussing about Kamen Rider 
 
 -  My Thesis project is about [Infrastructure as Code with Terraform + CI/CD Pipeline using Cloud Build](https://source.cloud.google.com/prime-hologram-395812/final-project-firman)
 
