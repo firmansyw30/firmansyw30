@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firmansyw30&label=Profile%20views&color=0e75b6&style=flat" alt="firmansyw30" /> </p>
 
-- 🔭 I’m currently working on Rantangin as a DevOps Engineer
-
 - 🌱 I’m currently learning about **Cloud Computing and DevOps**
 
 - 💬 Let's talk more about **Cloud Computing, Cloud Architecting or any related solution using Cloud**
