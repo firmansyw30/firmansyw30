@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firmansyah Wicaksono</h1>
-<h3 align="center">Fresh Graduate from Informatics Engineering with high passionate on Cloud Computing from Indonesia</h3>
+<h3 align="center">Informatics Engineering Graduate with high passionate on Cloud Computing from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firmansyw30&label=Profile%20views&color=0e75b6&style=flat" alt="firmansyw30" /> </p>
 
@@ -18,7 +18,7 @@
 <a href="https://twitter.com/firmansyw30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="firmansyw30" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/firmansyah-wicaksono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firmansyah-wicaksono" height="30" width="40" /></a>
 <a href="https://fb.com/firmansyah.wicaksono.30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="firmansyah.wicaksono.30" height="30" width="40" /></a>
-<a href="https://instagram.com/firmansyw30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firmansyw30" height="30" width="40" /></a>
+<a href="https://instagram.com/firmansyahw30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firmansyw30" height="30" width="40" /></a>
 <a href="https://medium.com/@firmansyw30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@firmansyw30" height="30" width="40" /></a>
 </p>
 
